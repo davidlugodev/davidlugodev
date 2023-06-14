@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
+![banner](https://github.com/davlgven/davlgven/blob/main/lv99226s.png?raw=true)
+
 ## 💬 Ask me about **Java, Python, R**
 
 ## 📫 Reach me at **davidlugo.dev@gmail.com**
@@ -21,4 +23,3 @@
     
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlgven)](https://github.com/davlgven/github-readme-stats&show_icons=true&theme=cobalt)
 
-![banner](https://github.com/davlgven/davlgven/blob/ab76c57518f01ed6c04e54839c14c877aeb45094/banner.jpeg?raw=true)
