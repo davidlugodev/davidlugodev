@@ -4,9 +4,10 @@
 
 ## 💬 Ask me about **Java, Python, R**
 
-## 📫 Reach me at **davidlugo.dev@gmail.com**
+### Contact with me: 
 
-### Contact with me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ve.linkedin.com/in/davlgven/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ve.linkedin.com/in/davlgven/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
