@@ -21,5 +21,5 @@
 <a target = "_blank"> <img src ="https://www.r-project.org/Rlogo.png" alt = R width = "40" height="40"/> </a>  
     </p> 
     
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlgven)](https://github.com/davlgven/github-readme-stats&show_icons=true&theme=cobalt)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlugodev)](https://github.com/davidlugodev/github-readme-stats&show_icons=true&theme=cobalt)
 
